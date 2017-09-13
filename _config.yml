@@ -2,7 +2,7 @@ name: Gneiss-Building-Bulgaria
 description: Gneiss Building Bulgaria. Official Website. Rocks today.
 
 base.url: https://siksites.github.io # the subpath of your site, e.g. /blog
-url: /gneiss-building-bulgaria
+url: /gbb
 
 permalink: :title/
 
