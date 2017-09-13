@@ -1,0 +1,28 @@
+name: Gneiss-Building-Bulgaria
+description: Gneiss Building Bulgaria. Official Website. Rocks today.
+
+
+
+email: zhivkotenchevzhelev@gmail.com
+description: > # Gneiss for sale
+
+base.url: https://siksites.io # the subpath of your site, e.g. /blog
+url: /gneiss-building-bulgaria
+
+permalink: :title/
+
+markdown: kramdown
+highlight: rouge
+paginate: 10
+paginate_path: /page:num/
+
+
+sass:
+  style: compressed
+
+include: [_pages]
+
+gems: [jekyll-paginate]
+
+# Exclude list
+exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]
