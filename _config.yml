@@ -6,7 +6,7 @@ description: Gneiss Building Bulgaria. Official Website. Rocks today.
 email: zhivkotenchevzhelev@gmail.com
 description: > # Gneiss for sale
 
-base.url: https://siksites.io # the subpath of your site, e.g. /blog
+base.url: https://siksites.github.io # the subpath of your site, e.g. /blog
 url: /gneiss-building-bulgaria
 
 permalink: :title/
